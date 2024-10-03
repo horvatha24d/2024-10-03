@@ -1,0 +1,16 @@
+#content{
+    width: 600px;
+    border: 5px solid darkblue;
+    margin: auto;
+    padding: 30px;
+    background-color: lightblue;
+    border-radius: 30px;
+}
+
+img{
+    width: 100%;
+}
+
+body{
+    background-color: aqua;
+}
